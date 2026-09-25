@@ -1,3 +1,2 @@
 hello world
-xin chao le minh-duy
-xin chao ban thu 2
+xin chao doan nguyen thanh dat
