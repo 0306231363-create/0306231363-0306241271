@@ -1,2 +1,1 @@
-hello word
-xin chao doan nguyen thanh dat
+hello world
